@@ -7,7 +7,7 @@ Drag and drop the following link to your browser’s bookmarks bar:
 [Fb Friends Ranking](http://bookmarkleteer.com/#k12/FB Friends Ranking | tusharvikky)
 
 Alt:
-[Alt. FB Friends Ranking](http://bookmarkleteer.com/#k15/FB-Ranking)
+[FB Friends Ranking](http://bookmarkleteer.com/#k15/FB-Ranking)
 
 Install:
 
